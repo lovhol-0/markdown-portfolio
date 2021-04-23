@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+List of knowledge
+* Programming in **Java**
+* Programming in **Python**
+* *Writing in **italic and bold***
